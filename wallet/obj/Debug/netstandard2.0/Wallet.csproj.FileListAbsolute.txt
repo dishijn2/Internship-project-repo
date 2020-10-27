@@ -1,0 +1,12 @@
+C:\Users\Shivi.DESKTOP-0E1GBNI\source\repos\wallet\wallet\wallet\bin\Debug\netstandard2.0\Wallet.deps.json
+C:\Users\Shivi.DESKTOP-0E1GBNI\source\repos\wallet\wallet\wallet\bin\Debug\netstandard2.0\Wallet.dll
+C:\Users\Shivi.DESKTOP-0E1GBNI\source\repos\wallet\wallet\wallet\obj\Debug\netstandard2.0\Wallet.csprojAssemblyReference.cache
+C:\Users\Shivi.DESKTOP-0E1GBNI\source\repos\wallet\wallet\wallet\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Shivi.DESKTOP-0E1GBNI\source\repos\wallet\wallet\wallet\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Shivi.DESKTOP-0E1GBNI\source\repos\wallet\wallet\wallet\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Shivi.DESKTOP-0E1GBNI\source\repos\wallet\wallet\wallet\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Shivi.DESKTOP-0E1GBNI\source\repos\wallet\wallet\wallet\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Shivi.DESKTOP-0E1GBNI\source\repos\wallet\wallet\wallet\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Shivi.DESKTOP-0E1GBNI\source\repos\wallet\wallet\wallet\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Shivi.DESKTOP-0E1GBNI\source\repos\wallet\wallet\wallet\obj\Debug\netstandard2.0\Wallet.AssemblyInfoInputs.cache
+C:\Users\Shivi.DESKTOP-0E1GBNI\source\repos\wallet\wallet\wallet\obj\Debug\netstandard2.0\Wallet.AssemblyInfo.cs
